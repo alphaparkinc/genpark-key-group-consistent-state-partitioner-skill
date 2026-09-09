@@ -1,0 +1,13 @@
+{
+  "name": "genpark-key-group-consistent-state-partitioner-skill",
+  "version": "1.0.0",
+  "description": "Scalable key-group partitioner enabling dynamic stream worker re-scaling and minimal state migration without global rebalancing.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "stream-partitioning",
+    "key-groups",
+    "stateful-rescaling",
+    "consistent-hash"
+  ]
+}
